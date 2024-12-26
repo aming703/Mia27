@@ -1,0 +1,16 @@
+#ncyu{
+  position:absolute;
+  border:solid 5px gold;
+  top:330px;
+  left:530px;
+}
+#ico{
+  width:200px
+}
+body {background:#99A8F5;}
+.font1{
+   font-weight:900;
+}
+.font2{
+   color:#17008A;
+}
